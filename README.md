@@ -77,10 +77,7 @@ Model comparison summary:
 ## 🏆 Best Model
 
 The best model obtained is:
-
-\[
-\boxed{ARIMA(2,1,0)}
-\]
+ARIMA(2,1,0)
 
 Reasons:
 - All coefficients are statistically significant.
